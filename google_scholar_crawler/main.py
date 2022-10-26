@@ -1,4 +1,5 @@
 from scholarly import scholarly
+from github import Github
 import jsonpickle
 import json
 from datetime import datetime
@@ -14,6 +15,7 @@ os.makedirs('results', exist_ok=True)
 with open(f'results/gs_data.json', 'w') as outfile:
     json.dump(author, outfile, ensure_ascii=False)
 
+
 shieldio_data = {
   "schemaVersion": 1,
   "label": "citations",
@@ -21,3 +23,14 @@ shieldio_data = {
 }
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
+
+    
+g = Github(os.environ['GITHUB_TOKEN'])
+repo_json = {}
+for repo in g.get_user().get_repos():
+    stars = repo.stargazers_count
+    if stars > 0:
+        print(repo.full_name, stars)
+        repo_json[repo.full_name] = stars
+with open('results/gstar_data.json', 'w') as outfile:
+    json.dump(repo_json, outfile, ensure_ascii=False)
