@@ -9,15 +9,15 @@
 title                    : "Luping Liu (刘路平)"
 description              : "Master's student at Zhejiang University. Focusing on diffusion model."
 repository               : "luping-liu/luping-liu.github.io"
-google_scholar_stats_use_cdn : true
+stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification : "Nv6zzQoLzl7ABNCa1mmH3BNHuj50iL8LJAwAYsVkQoU" # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : "50CC327D3657A395E21236201087E37A" # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  : "code-gvdP0vIESE" # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:

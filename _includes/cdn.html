@@ -1,0 +1,5 @@
+{% if site.stats_use_cdn %}
+{% assign assets_base_url = "https://cdn.jsdelivr.net/gh/" | append: site.repository %}
+{% else %}
+{% assign assets_base_url = "" %}
+{% endif %}

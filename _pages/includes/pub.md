@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/pndm.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='/images/pndm.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Pseudo Numerical Methods for Diffusion Models on Manifolds** \\
