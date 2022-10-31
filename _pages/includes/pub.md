@@ -9,7 +9,7 @@
 [Paper](https://openreview.net/forum?id=PlKWVd2yBkY) \| [Project](https://github.com/luping-liu/PNDM) <span class='show_paper_citations' data='DIHzHQYAAAAJ:d1gkVwhDpl0C'></span> <span class='show_repo_stars' data='luping-liu/PNDM'></span> 
 
 - This work is a simple, effective and general high-order method for the acceleration of the diffusion model.
-- This work is used as the default acceleration sampling method for famous [CompVis/stable-diffusion ![](https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social)](https://github.com/eCompVis/stable-diffusion). What's more, this work is included by many diffusion model open-source projects, such as [huggingface/diffusers ![](https://img.shields.io/github/stars/huggingface/diffusers?style=social)](https://github.com/huggingface/diffusers) and [MoonInTheRiver/DiffSinger ![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social)](https://github.com/MoonInTheRiver/DiffSinger).
+- This work is used as the default acceleration sampling method for famous [CompVis/stable-diffusion ![](https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social)](https://github.com/CompVis/stable-diffusion). What's more, this work is included by many diffusion model open-source projects, such as [huggingface/diffusers ![](https://img.shields.io/github/stars/huggingface/diffusers?style=social)](https://github.com/huggingface/diffusers) and [MoonInTheRiver/DiffSinger ![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social)](https://github.com/MoonInTheRiver/DiffSinger).
 </div>
 </div>
 

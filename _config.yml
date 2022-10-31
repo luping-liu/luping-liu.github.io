@@ -9,7 +9,8 @@
 title                    : "Luping Liu (刘路平)"
 description              : "Master's student at Zhejiang University. Focusing on diffusion model."
 repository               : "luping-liu/luping-liu.github.io"
-stats_use_cdn : true
+base_url                 : "https://luping-liu.github.io"
+stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
