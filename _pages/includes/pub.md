@@ -13,3 +13,15 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/DiffOOD.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection** \\
+**Luping Liu**, Yi Ren, Xize Cheng, Zhou Zhao
+
+[Paper](https://arxiv.org/abs/2211.11255) \| [Project](https://github.com/luping-liu/DiffOOD) <span class='show_paper_citations' data='DIHzHQYAAAAJ:9yKSN-GCB0IC'></span> <span class='show_repo_stars' data='luping-liu/DiffOOD'></span> 
+
+- This work provides a new perceptron bias assumption for OOD detection and designs new methods by combining discriminator models and the diffusion denoising process of diffusion models.
+</div>
+</div>
+
