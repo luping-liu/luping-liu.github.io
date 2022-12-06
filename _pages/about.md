@@ -4,6 +4,7 @@ title: ""
 excerpt: ""
 author_profile: true
 blog: false
+sitemap: true
 analytics: false
 redirect_from: 
   - /about/
