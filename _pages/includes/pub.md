@@ -17,11 +17,28 @@
 <div class='paper-box-text' markdown="1">
 
 **Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection** \\
-**Luping Liu**, Yi Ren, Xize Cheng, Zhou Zhao
+**Luping Liu**, Yi Ren, Xize Cheng, Rongjie Huang, Chongxuan Li, Zhou Zhao
 
 [Paper](https://arxiv.org/abs/2211.11255) \| [Project](https://github.com/luping-liu/DiffOOD) <span class='show_paper_citations' data='DIHzHQYAAAAJ:9yKSN-GCB0IC'></span> <span class='show_repo_stars' data='luping-liu/DiffOOD'></span> 
 
-- This work provides a new perceptron bias assumption to explain the overconfidence problem and designs two-step methods for OOD detection by combining discriminator models and the diffusion denoising process of invertible diffusion models.
+- This work provides a new perceptron bias assumption for the overconfidence problem and designs two-step diffusion-detection methods for OOD detection.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/DG.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Detector Guidance for Multi-Object Text-to-Image Generation** \\
+**Luping Liu**, Zijian Zhang, Yi Ren, Rongjie Huang, Xiang Yin, Zhou Zhao
+
+[Paper](https://arxiv.org/abs/2306.02236) \| [Project](https://github.com/luping-liu/Detector-Guidance) <span class='show_paper_citations' data='DIHzHQYAAAAJ:Y0pCki6q_DkC'></span> <span class='show_repo_stars' data='luping-liu/Detector-Guidance'></span> 
+
+- This work integrates a detection-correctiong process on cross-attention maps to prevent the amalgamation of multi-object generation.
+</div>
+</div>
+
+
+- [**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**](https://arxiv.org/abs/2301.12935). Shengmeng Li, **Luping Liu**, Zenghao Chai, Runnan Li, Xu Tan. Preprint
+- [**PTQD: Accurate Post-Training Quantization for Diffusion Models**](https://arxiv.org/abs/2305.10657). Yefei He, **Luping Liu**, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang. Preprint
+- [**Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models**](https://arxiv.org/abs/2301.12661), Rongjie Huang, Jiawei Huang, Dongchao Yang, Yi Ren, **Luping liu**, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. ICML 2023
+- [**Make-A-Voice: Unified Voice Synthesis With Discrete Representation**](https://arxiv.org/abs/2305.19269). Rongjie Huang, Chunlei Zhang, Yongqi Wang, Dongchao Yang, **Luping Liu**, Zhenhui Ye, Ziyue Jiang, Chao Weng, Zhou Zhao, Dong Yu. Preprint
