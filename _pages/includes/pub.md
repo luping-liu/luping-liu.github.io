@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='/images/pndm.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='https://cdn.jsdelivr.net/gh/luping-liu/luping-liu.github.io/images/pndm.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Pseudo Numerical Methods for Diffusion Models on Manifolds** \\
@@ -13,7 +13,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/DiffOOD2.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://cdn.jsdelivr.net/gh/luping-liu/luping-liu.github.io/images/DiffOOD2.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection** \\
@@ -25,7 +25,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/DG.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://cdn.jsdelivr.net/gh/luping-liu/luping-liu.github.io/images/DG.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Detector Guidance for Multi-Object Text-to-Image Generation** \\
@@ -33,12 +33,12 @@
 
 [Paper](https://arxiv.org/abs/2306.02236) \| [Project](https://github.com/luping-liu/Detector-Guidance) <span class='show_paper_citations' data='DIHzHQYAAAAJ:Y0pCki6q_DkC'></span> <span class='show_repo_stars' data='luping-liu/Detector-Guidance'></span> 
 
-- This work integrates a detection-correctiong process on cross-attention maps to prevent the amalgamation of multi-object generation.
+- This work integrates a detection-correction process on cross-attention maps to prevent the amalgamation of multi-object generation.
 </div>
 </div>
 
 
 - [**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**](https://arxiv.org/abs/2301.12935). Shengmeng Li, **Luping Liu**, Zenghao Chai, Runnan Li, Xu Tan. Preprint
-- [**PTQD: Accurate Post-Training Quantization for Diffusion Models**](https://arxiv.org/abs/2305.10657). Yefei He, **Luping Liu**, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang. Preprint
+- [**PTQD: Accurate Post-Training Quantization for Diffusion Models**](https://arxiv.org/abs/2305.10657). Yefei He, **Luping Liu**, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang. NeurIPS 2023, [![](https://img.shields.io/github/stars/ziplab/PTQD?style=social)](https://github.com/ziplab/PTQD)
 - [**Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models**](https://arxiv.org/abs/2301.12661), Rongjie Huang, Jiawei Huang, Dongchao Yang, Yi Ren, **Luping liu**, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. ICML 2023
 - [**Make-A-Voice: Unified Voice Synthesis With Discrete Representation**](https://arxiv.org/abs/2305.19269). Rongjie Huang, Chunlei Zhang, Yongqi Wang, Dongchao Yang, **Luping Liu**, Zhenhui Ye, Ziyue Jiang, Chao Weng, Zhou Zhao, Dong Yu. Preprint

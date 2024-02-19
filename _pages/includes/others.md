@@ -5,5 +5,5 @@
 
 # 💻 Internships
 
-- *2023.07 - 2023.10*: Tencent TEG, Shenzhen. Hosted by QingLin Lu and Wei Liu.
+- *2023.07 - 2024.02*: Tencent TEG, Shenzhen. Hosted by QingLin Lu and Wei Liu.
 

@@ -2,6 +2,11 @@
     $(document).ready(function () {
         {% if site.stats_use_cdn %}
         var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        // var citationEles = document.getElementsByClassName('paper-box-image')
+        // Array.prototype.forEach.call(citationEles, element => {
+        //     var img = element.querySelector('img');
+        //     img.src = img.src.replace('./images', '{{ assets_base_url }}/images');
+        // });
         {% else %}
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
