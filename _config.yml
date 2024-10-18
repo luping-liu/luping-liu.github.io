@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Luping Liu (刘路平)"
-description              : "Master's student at Zhejiang University. Focusing on diffusion model."
+description              : "PhD student at the University of Hong Kong. Focusing on diffusion model."
 repository               : "luping-liu/luping-liu.github.io"
 base_url                 : "https://luping-liu.github.io"
 stats_use_cdn : true
@@ -24,8 +24,8 @@ baidu_site_verification  : "code-gvdP0vIESE" # get baidu_site_verification from 
 author:
   name             : "Luping Liu (刘路平)"
   avatar           : "images/portrait.jpg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "the University of Hong Kong"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DIHzHQYAAAAJ"

@@ -16,7 +16,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://cdn.jsdelivr.net/gh/luping-liu/luping-liu.github.io/images/DiffOOD2.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection** \\
+<!-- **Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection** \\
 **Luping Liu**, Yi Ren, Xize Cheng, Rongjie Huang, Chongxuan Li, Zhou Zhao
 
 [Paper](https://arxiv.org/abs/2211.11255) \| [Project](https://github.com/luping-liu/DiffOOD) <span class='show_paper_citations' data='DIHzHQYAAAAJ:9yKSN-GCB0IC'></span> <span class='show_repo_stars' data='luping-liu/DiffOOD'></span> 
@@ -26,7 +26,7 @@
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://cdn.jsdelivr.net/gh/luping-liu/luping-liu.github.io/images/DG.webp' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 **Detector Guidance for Multi-Object Text-to-Image Generation** \\
 **Luping Liu**, Zijian Zhang, Yi Ren, Rongjie Huang, Xiang Yin, Zhou Zhao
@@ -38,7 +38,10 @@
 </div>
 
 
+- [**Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection**](https://arxiv.org/abs/2211.11255). **Luping Liu**, Yi Ren, Xize Cheng, Rongjie Huang, Chongxuan Li, Zhou Zhao. Preprint
 - [**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**](https://arxiv.org/abs/2301.12935). Shengmeng Li, **Luping Liu**, Zenghao Chai, Runnan Li, Xu Tan. Preprint
-- [**PTQD: Accurate Post-Training Quantization for Diffusion Models**](https://arxiv.org/abs/2305.10657). Yefei He, **Luping Liu**, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang. NeurIPS 2023, [![](https://img.shields.io/github/stars/ziplab/PTQD?style=social)](https://github.com/ziplab/PTQD)
 - [**Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models**](https://arxiv.org/abs/2301.12661), Rongjie Huang, Jiawei Huang, Dongchao Yang, Yi Ren, **Luping liu**, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. ICML 2023
+- [**PTQD: Accurate Post-Training Quantization for Diffusion Models**](https://arxiv.org/abs/2305.10657). Yefei He, **Luping Liu**, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang. NeurIPS 2023, [![](https://img.shields.io/github/stars/ziplab/PTQD?style=social)](https://github.com/ziplab/PTQD)
 - [**Make-A-Voice: Unified Voice Synthesis With Discrete Representation**](https://arxiv.org/abs/2305.19269). Rongjie Huang, Chunlei Zhang, Yongqi Wang, Dongchao Yang, **Luping Liu**, Zhenhui Ye, Ziyue Jiang, Chao Weng, Zhou Zhao, Dong Yu. Preprint
+- [**FreeBind: Free Lunch in Unified Multimodal Space via Knowledge Fusion**](https://arxiv.org/abs/2405.04883). Zehan Wang, Ziang Zhang, Xize Cheng, Rongjie Huang, **Luping Liu**, Zhenhui Ye, Haifeng Huang, Yang Zhao, Tao Jin, Peng Gao, Zhou Zhao. ICML 2024, [![](https://img.shields.io/github/stars/zehanwang01/FreeBind?style=social)](https://github.com/zehanwang01/FreeBind) 
+- [**Chat-3d v2: Bridging 3d scene and large language models with object identifiers**](https://arxiv.org/abs/2312.08168). Haifeng Huang, Yilun Chen, Zehan Wang, Rongjie Huang, Runsen Xu, Tai Wang, **Luping Liu**, Xize Cheng, Yang Zhao, Jiangmiao Pang, Zhou Zhao. NeurIPS 2024, [![](https://img.shields.io/github/stars/ZzZZCHS/Chat-Scene?style=social)](https://github.com/ZzZZCHS/Chat-Scene)
