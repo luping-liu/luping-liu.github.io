@@ -13,20 +13,20 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://cdn.jsdelivr.net/gh/luping-liu/luping-liu.github.io/images/DiffOOD2.webp' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://cdn.jsdelivr.net/gh/luping-liu/luping-liu.github.io/images/DiffOOD2.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- **Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection** \\
+**Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection** \\
 **Luping Liu**, Yi Ren, Xize Cheng, Rongjie Huang, Chongxuan Li, Zhou Zhao
 
 [Paper](https://arxiv.org/abs/2211.11255) \| [Project](https://github.com/luping-liu/DiffOOD) <span class='show_paper_citations' data='DIHzHQYAAAAJ:9yKSN-GCB0IC'></span> <span class='show_repo_stars' data='luping-liu/DiffOOD'></span> 
 
 - This work provides a new perceptron bias assumption for the overconfidence problem and designs two-step diffusion-detection methods for OOD detection.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://cdn.jsdelivr.net/gh/luping-liu/luping-liu.github.io/images/DG.webp' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box-text' markdown="1">
 
 **Detector Guidance for Multi-Object Text-to-Image Generation** \\
 **Luping Liu**, Zijian Zhang, Yi Ren, Rongjie Huang, Xiang Yin, Zhou Zhao
