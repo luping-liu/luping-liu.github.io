@@ -5,7 +5,6 @@ import json
 from datetime import datetime
 import os
 
-# Setup proxy
 pg = ProxyGenerator()
 pg.FreeProxies()  # Use free rotating proxies
 scholarly.use_proxy(pg)

@@ -38,6 +38,19 @@
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://cdn.jsdelivr.net/gh/luping-liu/luping-liu.github.io/images/LongAlign.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Improving Long-Text Alignment for Text-to-Image Diffusion Models** \\
+**Luping Liu**, Chao Du, Tianyu Pang, Zehan Wang, Chongxuan Li, Dong Xu
+
+[Paper](https://arxiv.org/abs/2410.11817) \| [Project](https://luping-liu.github.io/LongAlign_poster) <span class='show_paper_citations' data='DIHzHQYAAAAJ:MXK_kJrjxJIC'></span> <span class='show_repo_stars' data='luping-liu/LongAlign'></span> 
+
+- This work investigates alignment diffusion models for long-text prompts using segment-level encoding and decomposed preference optimization.
+</div>
+</div>
+
+
 - [**Diffusion Denoising Process for Perceptron Bias in Out-of-distribution Detection**](https://arxiv.org/abs/2211.11255). **Luping Liu**, Yi Ren, Xize Cheng, Rongjie Huang, Chongxuan Li, Zhou Zhao. Preprint
 - [**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**](https://arxiv.org/abs/2301.12935). Shengmeng Li, **Luping Liu**, Zenghao Chai, Runnan Li, Xu Tan. Preprint
 - [**Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models**](https://arxiv.org/abs/2301.12661), Rongjie Huang, Jiawei Huang, Dongchao Yang, Yi Ren, **Luping liu**, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. ICML 2023
