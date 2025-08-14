@@ -1,9 +1,10 @@
 name: Get Citation Data
 
 on: 
+ workflow_dispatch:
  page_build: 
  schedule:
-  - cron:  '0 8 * * *'
+  - cron:  '0 8 * * 1,5'
 
 jobs:
   build:
@@ -20,7 +21,8 @@ jobs:
         python3 main.py
         cd ./results
         git init
-        git config --local user.name "${GITHUB_ACTOR}"
+        git config --global user.name "${GITHUB_ACTOR}"
+        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
         git commit -m "Updated Citation Data"
