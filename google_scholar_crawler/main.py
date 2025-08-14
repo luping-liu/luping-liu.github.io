@@ -5,12 +5,23 @@ import json
 from datetime import datetime
 import os
 
-pg = ProxyGenerator()
-pg.FreeProxies()  # Use free rotating proxies
-scholarly.use_proxy(pg)
+max_attempts = 30
+wait_seconds = 120  # 2 minutes
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
-scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+for attempt in range(0, max_attempts):
+    try:
+        pg = ProxyGenerator()
+        pg.FreeProxies()  # Use free rotating proxies
+        scholarly.use_proxy(pg)
+        
+        author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+        scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+        print(f"Attempt {attempt} success")
+        break  # Exit loop on first success
+    except Exception as e:
+        print(f"Attempt {attempt} failed with error: {e}")
+        time.sleep(wait_seconds)
+        
 name = author['name']
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
