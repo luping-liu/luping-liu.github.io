@@ -3,7 +3,9 @@ from github import Github
 import jsonpickle
 import json
 from datetime import datetime
+import time
 import os
+
 
 max_attempts = 30
 wait_seconds = 120  # 2 minutes
